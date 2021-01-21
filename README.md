@@ -1,4 +1,4 @@
-# deepface
+# deepface ([статья на Хабре](https://habr.com/ru/post/538360/))
 
 [![Downloads](https://pepy.tech/badge/deepface)](https://pepy.tech/project/deepface)
 [![License](http://img.shields.io/:license-MIT-blue.svg?style=flat)](https://github.com/serengil/deepface/blob/master/LICENSE)
